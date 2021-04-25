@@ -23,6 +23,8 @@ of the required UML code descriptions in the time alotted.  However, given more 
 As I had previously mentioned, the user was very short on fleshing out their needs.  So to build on their ideas, I used what I gathered from our dialogue and 
 conducted further research on a similar product (i.e. the LMS models).  Using the examples it helped me to make what were building match more in line with the product
 that I was being asked to design and from it I was able to build the Business Requirement documents for the customer to confirm their acceptance of the initial design.
+
+It's seems obvious to me that it is important to consider the user's need because when we are designing a program we are realizing the customer's ideas and not our own.  More importantly, if we don't build and deliver what the customer is expecting it is unlikely we'll generate any additional business (or get paid for that matter).
     
 ## How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 I believe that there would be more than a single meeting for any software design project.  In reality, after the initial requirements gathering for a programming project, my goal would be to hold follow-up customer meetings to gather requirements from the broader elements that were gathered during the initial requirements gathering session.  This would help to address the issue I mentioned above where there was no fleshing out of ideas and much of what was to be done to fill in the gaps was done on my own, where I would have preferred the customer have been involved in making the design decision.
